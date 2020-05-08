@@ -1,7 +1,7 @@
-.vscode
+.vscode/
 
-train
+train/
 
-dev
+dev/
 
-__MACOSX
+__MACOSX/
