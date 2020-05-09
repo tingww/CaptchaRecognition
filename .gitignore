@@ -5,3 +5,9 @@ train/
 dev/
 
 __MACOSX/
+
+testcache
+
+train.tgz
+
+train.zip
