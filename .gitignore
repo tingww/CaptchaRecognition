@@ -4,12 +4,18 @@ train/
 
 dev/
 
+__pycache__/
+
 __MACOSX/
 
 testcache
 
 train.tgz
 
-train.zip
-
 h5s/
+
+*.zip
+
+*.csv
+
+keras-contrib/
