@@ -12,3 +12,5 @@ h5s/
 wandb/
 keras-contrib/
 document/
+test/
+*.tgz
